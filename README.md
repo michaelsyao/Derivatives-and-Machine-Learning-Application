@@ -10,5 +10,5 @@ Past project for Derivative Pricing and Modeling
 ## Credit Derivative Model
 1. Jump Diffusion Model
 
-## Exotic Equity
+## Exotic Equity Option
 1. [Quanto Option](https://nbviewer.jupyter.org/github/jollyraven100/Derivatives_Modeling/blob/master/Quanto%20Option.pdf)
