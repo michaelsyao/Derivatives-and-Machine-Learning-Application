@@ -12,3 +12,4 @@ Past project for Derivative Pricing and Modeling
 
 ## Exotic Equity Option
 1. [Quanto Option](https://nbviewer.jupyter.org/github/jollyraven100/Derivatives_Modeling/blob/master/Quanto%20Option.pdf)
+2. Maximum of Two Option
