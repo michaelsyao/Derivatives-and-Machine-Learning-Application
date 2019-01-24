@@ -7,12 +7,14 @@ Past sample projects for Derivative Pricing and Modeling
 ## Algo Trading
 1. Gamma Scalping
 
+## Exotic Equity Option
+1. [Quanto Option](https://nbviewer.jupyter.org/github/jollyraven100/Derivatives_Modeling/blob/master/Quanto%20Option.pdf)
+2. Maximum of Two Option
+
 ## Rate Derivative Model
 1. Jump Diffusion Model
 
 ## Credit Derivative Model
 1. Jump Diffusion Model
 
-## Exotic Equity Option
-1. [Quanto Option](https://nbviewer.jupyter.org/github/jollyraven100/Derivatives_Modeling/blob/master/Quanto%20Option.pdf)
-2. Maximum of Two Option
+
