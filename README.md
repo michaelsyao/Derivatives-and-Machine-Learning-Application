@@ -18,6 +18,6 @@ Past sample projects for Derivatives Modeling
 1. Jump Diffusion Model
 
 ## Rate Derivative Model
-1. Rate Instruments
+1. [Rate Instruments](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Swap.Swaption.pdf)
 
 
