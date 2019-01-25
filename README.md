@@ -14,8 +14,7 @@ Past sample projects for Derivatives Modeling
 ## Option Strategy
 1. [Gamma Scalping](gammaScalp_strangle_LO_v3.m)
 
-## Credit Derivative Model
-1. Jump Diffusion Model
+
 
 ## Rate Derivative Model
 1. [Rate Instruments](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Swap.Swaption.pdf)
