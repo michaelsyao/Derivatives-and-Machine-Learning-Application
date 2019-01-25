@@ -15,7 +15,8 @@ Past sample projects for Derivatives Modeling
 1. [Gamma Scalping](gammaScalp_strangle_LO_v3.m)
 
 ## Credit Derivatives
-1. [Gamma Scalping](gammaScalp_strangle_LO_v3.m)
+1. [Default Intensity](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Default%20Intensity.pdf)
+2. [nth to Default](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Default%20Intensity.pdf)
 
 ## Rate Derivative Model
 1. [Rate Instruments](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Swap.Swaption.pdf)
