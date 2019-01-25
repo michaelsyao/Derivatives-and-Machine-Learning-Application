@@ -12,7 +12,7 @@ Past sample projects for Derivatives Modeling
 2. [Maximum of Two Option](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Options%20on%20the%20Maximum%20of%20two%20assets.pdf)
 
 ## Algo Trading
-1. Gamma Scalping
+1. [Gamma Scalping](gammaScalp_strangle_LO_v3.m)
 
 ## Credit Derivative Model
 1. Jump Diffusion Model
