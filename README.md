@@ -12,7 +12,7 @@ Past sample projects for Derivatives Modeling
 2. [Maximum of Two Option](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Options%20on%20the%20Maximum%20of%20two%20assets.pdf)
 
 ## Option Strategy
-1. [Gamma Scalping](gammaScalp_strangle_LO_v3.m)
+1. Gamma Scalping
 
 ## Credit Derivatives
 1. [Default Intensity](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Default%20Intensity.pdf)
