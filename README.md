@@ -16,7 +16,7 @@ Past sample projects for Derivatives Modeling
 
 ## Credit Derivatives
 1. [Default Intensity](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Default%20Intensity.pdf)
-2. [nth to Default](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Default%20Intensity.pdf)
+2. [nth to Default](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/nth%20to%20Default.pdf)
 
 ## Rate Derivative Model
 1. [Rate Instruments](https://nbviewer.jupyter.org/github/michaelsyao/Derivatives_Modeling/blob/master/Swap.Swaption.pdf)
