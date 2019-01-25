@@ -18,6 +18,6 @@ Past sample projects for Derivatives Modeling
 1. Jump Diffusion Model
 
 ## Rate Derivative Model
-1. Jump Diffusion Model
+1. Rate Instruments
 
 
