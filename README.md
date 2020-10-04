@@ -5,7 +5,8 @@ Sample projects for Derivatives Modeling
 1. [Jump Diffusion Model](https://nbviewer.jupyter.org/github/jollyraven100/Derivatives_Modeling/blob/fc51c1fd3ea585f0479614d5c57d0436c3d80e64/Jump%20Diffusion%20Model_final.pdf)
 
 ## xVA
-1. [CVA for IRS](CVA_for_IRS_final.m)
+1. [Calculate CVA use GP for Option Portfolio](CVA_for_IRS_final.m)
+2. [CVA for IRS](CVA_for_IRS_final.m)
 
 ## Exotic Equity Option
 1. [Quanto Option](https://nbviewer.jupyter.org/github/jollyraven100/Derivatives_Modeling/blob/master/Quanto%20Option.pdf)
