@@ -1,4 +1,4 @@
-# Derivatives_Modeling
+# Derivatives & Machine Learning Application
 Sample projects for Derivatives Modeling
 
 ## Equity Derivatives Model 
