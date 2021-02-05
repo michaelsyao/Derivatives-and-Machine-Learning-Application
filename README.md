@@ -1,8 +1,5 @@
-# Derivatives & Machine Learning Application
-Sample projects for Derivatives Modeling
-
+# Supervised Learing - Classification
 ## Fraud Detection
-
 
 ## xVA
 1. [Calculate CVA use GP for Option Portfolio](MY3_Upload_CVA.ipynb)
