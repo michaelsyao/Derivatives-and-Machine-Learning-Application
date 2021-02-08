@@ -1,7 +1,6 @@
 # Classification
 ## Fraud Detection
-
-FraudDetection_FINAL.ipynb
+1. [Fraud Detection for Credit](FraudDetection_FINAL.ipynb)
 
 ## xVA
 1. [Calculate CVA use GP for Option Portfolio](MY3_Upload_CVA.ipynb)
