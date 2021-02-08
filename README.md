@@ -1,4 +1,4 @@
-# Supervised Learing - Classification
+# Classification
 ## Fraud Detection
 
 ## xVA
