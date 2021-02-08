@@ -1,4 +1,4 @@
-# ML Application
+# Financial ML Application & Derivatives
 ```
 Projects: Various Application for Machine Learning
 ```
