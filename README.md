@@ -1,4 +1,4 @@
-# Classification
+# ML Application
 ## Fraud Detection
 1. [Fraud Detection for Credit](FraudDetection_FINAL.ipynb)
 
