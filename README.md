@@ -3,7 +3,7 @@
 Projects: Various Application for Machine Learning
 ```
 ## Fraud Detection
-1. [Fraud Detection for Credit](FraudDetection_FINAL.ipynb)
+1. [Fraud Detection for Credit Card](FraudDetection_FINAL.ipynb)
    >Generate a trading signal based on a momentum indicator and produce projected returns. Perform a statistical test to conclude if there is alpha in the signal.
    - Extended Reference: [Dual Momentum Strategy](https://seekingalpha.com/article/4233923-dual-momentum-january-update)
 
