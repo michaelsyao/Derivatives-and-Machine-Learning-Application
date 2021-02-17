@@ -6,9 +6,9 @@ Projects: Various Application for Machine Learning
 1. [Fraud Detection for Credit Card](FraudDetection_FINAL.ipynb)
    > Use CART, SVM, Neural Network, AdaBoost, GradientBoot, and Random Forest to detect the Fraud from Credit Card Portfolio
    
-## PCA.Autoencoder Portfolio
-1. [Fraud Detection for Credit Card](FraudDetection_FINAL.ipynb)
-   > Use CART, SVM, Neural Network, AdaBoost, GradientBoot, and Random Forest to detect the Fraud from Credit Card Portfolio
+## Portfolio OptimiZation
+1. [PCA.Autoencoder Portfolio](Final_pca_eigen_portfolios_m2_ex3.ipynb)
+   > Use PCA and Autoencoder to construt optimization Portfolio
 
 ## xVA
 1. [Calculate CVA use GP for Option Portfolio](MY3_Upload_CVA.ipynb)
